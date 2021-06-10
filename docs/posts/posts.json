@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2021-06-10-my-favourite-hobby/",
+    "title": "My favourite hobby",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Yueun Hwang",
+        "url": {}
+      }
+    ],
+    "date": "2021-06-10",
+    "categories": [],
+    "contents": "\r\nMy second blog post, woo hoo!\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-06-10T14:36:15+10:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to Yueun's Health Data Science Blog",
     "description": "Welcome to our new blog, Yueun's Health Data Science Blog. We hope you enjoy \nreading what we have to say!",
